@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1582434396 source:/home/oficiana/Documentos/PrimeraVariable/main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+

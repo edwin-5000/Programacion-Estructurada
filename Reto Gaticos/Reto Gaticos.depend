@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1583258263 source:/home/oficiana/Documentos/PrimeraVariable/Reto Gaticos/main.c
+	<stdio.h>
+	<stdlib.h>
+
