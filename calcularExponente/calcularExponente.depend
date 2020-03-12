@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1583989439 source:/home/ej/Documentos/Programacion-Estructurada/calcularExponente/main.c
+	<stdio.h>
+	<stdlib.h>
+
